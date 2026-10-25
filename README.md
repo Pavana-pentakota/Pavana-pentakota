@@ -35,6 +35,7 @@ I turn business questions into clear, data-backed decisions. I have 10 years of 
 - Automated daily sales reporting, cutting the work from 3–4 hours to 30 minutes.
 
 ## Certifications
+https://www.linkedin.com/in/pavanapentakota/
 Data Analytics (13 week, 487 hours), WBS coding school
 The Data Science of Experimental Design, Linkdn
 Excel : Macros and VBA for beginners, Linkdn
@@ -44,9 +45,6 @@ English · Telugu · Hindi · German (learning)
 
 ## Connect
 [LinkedIn](https://www.linkedin.com/in/pavanapentakota/)
-
-## Certifications
-- [![Data Science of Experimental](CertificateOfCompletion_The Data Science of Experimental Design_page-0001.jpg) ](https://github.com/Pavana-pentakota/Data-Management/blob/main/CertificateOfCompletion_The%20Data%20Science%20of%20Experimental%20Design_page-0001.jpg)
 
 ### Connect with Me
 LinkedIn:
